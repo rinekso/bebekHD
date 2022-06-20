@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 7a37c15cd7eb584468d9306efd44bc26
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: -1167227180063031679
+    second: metarig|AllCombined
+  - first:
+      74: 7910983257006196264
+    second: metarig|GermanShepherdPoses
+  - first:
+      74: -8886876057350898493
+    second: metarig|Idle1
+  - first:
+      74: -4322934765721092544
+    second: metarig|IdleEarTwitch
+  - first:
+      74: 5007591735617692505
+    second: metarig|IdleLieDown
+  - first:
+      74: -6948702741343743972
+    second: metarig|IdleSit
+  - first:
+      74: 3819204733282340162
+    second: metarig|Jump
+  - first:
+      74: -1576691961945303339
+    second: metarig|LayDown
+  - first:
+      74: 4852056978371704540
+    second: metarig|NewSwim
+  - first:
+      74: -7297269004381136286
+    second: metarig|RunCycle
+  - first:
+      74: -875537781617976021
+    second: metarig|SitDown
+  - first:
+      74: -6570543761912516660
+    second: metarig|SitScratchEar
+  - first:
+      74: 4585992693268218658
+    second: metarig|SitUp
+  - first:
+      74: -617925849376607741
+    second: metarig|StandUp
+  - first:
+      74: -3830262187094273062
+    second: metarig|WalkCycle
+  - first:
+      74: 8193676161544802509
+    second: metarig|WalkSniff
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark
+    second: {fileID: 2100000, guid: d0173169975838746a2a60bff8828bdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light
+    second: {fileID: 2100000, guid: e3867f77bca011644a2d62a2683b5156, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nose
+    second: {fileID: 2100000, guid: 539fe123e42db604db5340f7eddf97b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pads
+    second: {fileID: 2100000, guid: f2d3fc629a4fbc24195717527f591bd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mc
+    second: {fileID: 2100000, guid: 7ea9e694a7904134f9c31faf57884cd8, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
